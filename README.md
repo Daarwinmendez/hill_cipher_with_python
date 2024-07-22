@@ -32,3 +32,16 @@ El Hill Cipher es un cifrado por sustitución poligráfica basado en álgebra li
 ### Implementación en Python
 
 Los mismos pasos que la implementación manual se traducen en código Python, aprovechando las capacidades de NumPy, SymPy y Math para cálculos y operaciones matriciales eficientes.
+
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Por favor, no dudes en enviar un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
+
+## Contacto
+
+Para cualquier pregunta o sugerencia, por favor abre un issue o contáctame directamente.
